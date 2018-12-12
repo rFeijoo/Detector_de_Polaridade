@@ -1,2 +1,13 @@
 # Detector_de_Polaridade
-Circuito analógico indicador de polaridade para fontes de tensão entre -12V a +12V.
+Circuito baseado no CI LM741, com alimentação simétrica de 12V, para identificar a polaridade de fontes de tensão.
+
+    @ Esquemático
+![alt text](screenshots/esquematico.png)
+
+
+    @ Layout
+![alt text](screenshots/layout.png)
+
+
+    @ Visão 3D
+![alt text](screenshots/3D.png)
